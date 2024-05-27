@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Curso Html y CCS"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Full_Stack_Development"
+	}
+}
